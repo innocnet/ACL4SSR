@@ -469,5 +469,5 @@ USER-AGENT,com.google.ios.youtubemusic*
 DOMAIN,music.youtube.com
 
 # custom
-DOMAIN,coze.com
+DOMAIN-KEYWORD,coze
 DOMAIN,dotunnel005.com
