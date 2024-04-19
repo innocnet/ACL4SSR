@@ -467,3 +467,7 @@ USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
 DOMAIN,music.youtube.com
+
+# custom
+DOMAIN,coze.com
+DOMAIN,dotunnel005.com
