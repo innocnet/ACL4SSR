@@ -471,6 +471,7 @@ DOMAIN,music.youtube.com
 # custom
 DOMAIN-KEYWORD,coze
 DOMAIN,dotunnel005.com
+DOMAIN,api.oaipro.com
 DOMAIN-KEYWORD,vercel
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
@@ -483,4 +484,3 @@ DOMAIN,cloud.dify.ai
 DOMAIN-KEYWORD,xcyun.co
 DOMAIN-KEYWORD,torrentmac
 DOMAIN-KEYWORD,gitbook.io
-DOMAIN,api.oaipro.com
