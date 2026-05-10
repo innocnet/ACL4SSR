@@ -492,6 +492,7 @@ DOMAIN-KEYWORD,hybgzs
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,perplexity
+DOMAIN-KEYWORD,grok
 DOMAIN,api.nyxar.org
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,googletagmanager.com
@@ -502,6 +503,6 @@ DOMAIN-SUFFIX,monitor.innocnet.cn
 DOMAIN-SUFFIX,dt.innocnet.cn
 DOMAIN-SUFFIX,subend.innocnet.cn
 DOMAIN,ipinfo.io
+DOMAIN,auth.grokipedia.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
-DOMAIN-KEYWORD,grok
